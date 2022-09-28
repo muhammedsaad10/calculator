@@ -1,0 +1,27 @@
+.body{
+
+    width: 500px;
+    height: auto;
+    background-color: aquamarine;
+    position: absolute;
+    left: 200px;
+    padding: 10px;
+    
+}
+
+  
+
+#screen{
+    width: 492px;
+    height: 62px;
+    background-color: darkslategrey;
+}
+.btn{
+    width: 100px;
+    height: 80px;
+    
+}
+.body .row{
+    padding:10px;
+    
+}
